@@ -11,7 +11,6 @@ Dictionary ka kaafi asaan sa kaam hai. Jo bhi word do, woh uska meaning deta hai
 Maanlo hum ek dictionary define karte hai jiski key student ka naam hai, aur woh key daalne se, uske marks milte hai. Uss dictionary ko hum aise define karenge.
 
 ```javascript
-// marks ki dictionary, jismei student ke naam ke saamne unke marks stored hai
 marks_dict = {
   "shivam": 15,
   "abhishek": 30,
@@ -50,8 +49,8 @@ Yaani marks_dict mei se "rahul" key wali, value mil jayegi.
 - Dictionary aur functions alag hote hai. But ek dictionary ko loosely ek function tarah socha ja sakta hai, jo kuch keys ke liye, kuch specific values deta hai. Function mei argument dene ke liye round brackets (yaani ()) use hoti hai, par dictionary mei square brackets (yaani []) use hoti hai. Functions mei kitne bhi argument diye ja sakte hai, par dictionary mei ek hi key ja sakti hai.
 
 - Ek khaali dictionary define karne ke liye, yeh likhe
-...```javascript
-empty_dict = {};
-```
-...
-Curly braces use karne se ek empty yaani khaali dictionary ban jaati hai.
+  ```javascript
+  empty_dict = {};
+  ```
+
+  Curly braces use karne se ek empty yaani khaali dictionary ban jaati hai.
