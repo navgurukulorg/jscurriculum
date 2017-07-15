@@ -19,7 +19,7 @@ json_string = JSON.stringify(marks_dict)
 
 console.log(json_string)
 
-Aap iss JSON string se JSON object bhi aasaani se nikal sakte hai.
+// Aap iss JSON string se JSON object bhi aasaani se nikal sakte hai.
 
 json_object = JSON.parse(json_string)
 
